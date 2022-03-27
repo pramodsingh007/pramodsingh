@@ -1,0 +1,178 @@
+/* navbar section */
+
+#brand-logo{
+    width: 70px;
+}
+.hello-btn{
+    color:blue;
+    font-weight: bold;
+    border-radius: 50px;
+    margin-left: 8px;
+    border-width: 2px;
+   
+}
+.navbar-hello{
+    justify-content: flex-end;
+}
+
+
+
+/* intro section */
+#my-img{
+    width: 150px;
+    border-radius: 50%;
+    background-color: purple;
+    margin: 30px;
+}
+.introduction{
+    margin-top: 4rem;
+    text-align: center;
+}
+
+#screen{
+    width: 600px;
+}
+.after-intro{
+    margin-top: 5rem;
+    text-align: center;
+}
+#hello{
+   color: purple;
+   font-weight: bold;
+    
+}
+.main-intro{
+    background-color: rgb(115, 15, 209);
+    height: 30rem;
+}
+.intro-text{
+    color: white;
+    margin: 20%;
+    text-align: center;
+    position:absolute;
+    top: auto;
+    font-size: large;
+    margin-bottom: 30px;
+    
+}
+
+
+/* skills section */
+.skills-img{
+    width: 45px;
+}
+
+.skills-text{
+    margin: 20px;
+    color: purple;
+}
+.skills-div{
+    text-align: center;
+    background-color: white;
+    position: relative;
+    top: -100px;
+    border-radius: 10px;
+    box-shadow: 12px 12px 2px 1px rgba(25, 25, 34, 0.096);
+   
+}
+
+#skills-row{
+    padding-top: 25px;
+    
+}
+.skills-tech{
+    margin: 25px;
+}
+.empty-box{
+    height: 12rem;
+}
+
+
+/* work section */
+.work-tag{
+    color: purple; 
+    font-weight:bold; 
+    margin:30px;
+    text-align: center;
+}
+.work-div{
+    text-align: center;
+    display:flexbox;
+    justify-content: center;
+    
+}
+.card{
+    border-radius: 10px;
+    
+    width: 300px;
+    text-align: center;
+    margin: 10px auto;
+}
+.card:hover{
+    box-shadow: 0px 10px 70px rgb(12, 12, 204);
+    
+
+}
+
+/* testimonials section */
+.testimonials-div{
+    text-align: center;
+    margin-bottom: 20rem;
+}
+.testimonials-text{
+    margin: 20px;
+    color: blue;
+    font-weight: bold;
+}
+.testimonials-img{
+    width: 60px;
+    border-radius: 100%;
+    margin-top: 2rem;
+    margin-bottom: 20px;
+}
+h6{
+    color: purple;
+}
+
+
+
+/* footer section */
+.footer-div{
+    height: 38rem;
+    background-color: rgb(115, 15, 209);
+    text-align: center;
+}
+.project-idea{
+    background-color: rgb(3, 4, 66);
+    border-radius: 20px;
+    position:relative;
+    top: -90px;
+    color: white;
+    text-align: center;
+    
+}
+.project-row{
+    vertical-align: middle;
+    padding: 5% 1%;
+    
+}
+#f-brand{
+    width: 100px;
+    margin: 30px;
+}
+#quotes{
+    color: wheat;
+    font-style: italic;
+    margin-bottom: 30px;
+}
+.fa{
+    color: wheat;
+    margin: 9px;
+}
+
+/* copyright section */
+#copyright{
+    color: white;
+    margin-top: 30px;
+}
+
